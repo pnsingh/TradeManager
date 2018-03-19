@@ -1,0 +1,15 @@
+6 Dec 2017
+
+To use the Trade Manager on a system running MAC-osX, please open up a terminal and on the command line type the following command line :
+
+"python Menu_MAC.py"
+
+This will open up the menu just like in the windows version of the code. There is no need to set or change paths as this is automatically taken care of. 
+Just make sure the Investors.csv and the Trades.xlsx files are in the same folder as the Menu_MAC.py file.
+
+If the "Open Trades File" button or the "Open Investors File" button are clicked, make sure to close the file before executing any of the other functions (like open a new trade, close a trade, generate report etc) are executed.
+
+
+At the end of the month when using the "Commission/Finance function" please remember to make a backup of the two critical files "Investors.csv" and "Trades.xlsx" in a separate folder just for safety purposes.
+
+
