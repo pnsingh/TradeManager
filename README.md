@@ -1,2 +1,2 @@
 # TradeManager
-A neat accounting software for PAMM account
+A neat accounting software for a PAMM account
